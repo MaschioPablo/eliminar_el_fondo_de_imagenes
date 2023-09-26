@@ -1,5 +1,4 @@
- 
-#todo? //para correr el programa poner en la terminal streamlit run (nombre del archivo.py)
+
 
 import streamlit as st
 from PIL import Image
